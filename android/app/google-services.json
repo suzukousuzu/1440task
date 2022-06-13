@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "708646354695",
+    "project_id": "task-aff64",
+    "storage_bucket": "task-aff64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708646354695:android:1ed019f06f20abeb5a8fa2",
+        "android_client_info": {
+          "package_name": "com.fluttering10.ringrin_1440task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708646354695-dr2gku6hd1ofl7qhl0mfr2tdtvfiq13o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgZQKz8wieNFQgb4FsvIfcVGKDCzY-fPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708646354695-dr2gku6hd1ofl7qhl0mfr2tdtvfiq13o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "708646354695-eesvk81b925jgbqre52n427ef9ig5v0c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fluttering10.ringrin-1440task"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
